@@ -19,7 +19,7 @@
 
 📊 Passionate about **Data Analytics, Data Science, Machine Learning, NLP, and Generative AI**
 
-💼 Former Intern at **PMRU (Punjab Municipal Regulatory Unit)**
+💼 Former Intern at **PMRU (performance Management & Reforms Unit)**
 
 🤖 Currently building AI-powered solutions including:
 
